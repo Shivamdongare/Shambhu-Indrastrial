@@ -14,7 +14,7 @@
 }
  .b{
   background-size: cover;  
-  background-image: url(img\mainpagebagraundimg.webp);
+  background-image: url("img\mainpagebagraundimg.webp");
   
  }
  .sh1{
